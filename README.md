@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleksapostolov
-- 👀 I’m interested in aairsoft, HAM radios, music and nature
+- 👀 I’m interested in airsoft, HAM radios, music and nature
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on beginner friendly project in order to learn faster
 - 📫 How to reach me - 
